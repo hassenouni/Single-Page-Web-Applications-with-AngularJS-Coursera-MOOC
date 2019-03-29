@@ -1,4 +1,4 @@
-#Single Page Web Applications with AngularJS
+Single Page Web Applications with AngularJS Coursera certificate
 
 Solutions to module assignments for the "Single Page Web Applications with AngularJS" Coursera MOOC taught by Johns Hopkins University.
 
